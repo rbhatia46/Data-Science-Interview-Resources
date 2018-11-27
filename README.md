@@ -31,3 +31,5 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [An Introduction to SVMs](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [You Need these Cheatsheets if you are tackling ML algorithms](https://medium.freecodecamp.org/you-need-these-cheat-sheets-if-youre-tackling-machine-learning-algorithms-45da5743888e)
+* [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html)
+* [Red Flags in a Data Science Interview](https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4)
