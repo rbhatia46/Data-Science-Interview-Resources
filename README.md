@@ -10,7 +10,8 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 ## Video Resources
 
-* [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY) 
+* [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY)
+* [Common Machine Learning Interview Question - Edureka](https://www.youtube.com/watch?v=t6gOpFLt-Ks)
 * [Top 5 algorithms used in Data Science](https://www.youtube.com/watch?v=BfowBtIxNu4) 
 * [Common Data Science Interview Questions - Analytics University](https://www.youtube.com/watch?v=BfowBtIxNu4) 
 * [8 Frequently used Data Science Algorithms](https://www.youtube.com/watch?v=z3wMgOTSE5s) 
@@ -22,7 +23,6 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [KNN v/s K Means](https://www.youtube.com/watch?v=OClrEI_5Ri4)
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 * [Logistic Regression - Short and Clear Explanation](https://www.youtube.com/watch?v=yIYKR4sgzI8)
-* []
 ## Reading Resources
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
