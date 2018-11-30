@@ -23,6 +23,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [KNN v/s K Means](https://www.youtube.com/watch?v=OClrEI_5Ri4)
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 * [Logistic Regression - Short and Clear Explanation](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+* [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE)
 ## Reading Resources
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
