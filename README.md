@@ -42,6 +42,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Red Flags in a Data Science Interview](https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4)
 * [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52)
 * [Activation Functions in a Neural Network - Explained](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+* [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks)
 * [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
