@@ -24,6 +24,11 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 * [Logistic Regression - Short and Clear Explanation](https://www.youtube.com/watch?v=yIYKR4sgzI8)
 * [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE)
+* [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
+* [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30)
+* [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs)
+
+
 ## Reading Resources
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
@@ -32,9 +37,13 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [An Introduction to SVMs](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [You Need these Cheatsheets if you are tackling ML algorithms](https://medium.freecodecamp.org/you-need-these-cheat-sheets-if-youre-tackling-machine-learning-algorithms-45da5743888e)
+* [Ways to detect and remove Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
 * [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html)
 * [Red Flags in a Data Science Interview](https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4)
 * [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52)
 * [Activation Functions in a Neural Network - Explained](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+* [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
+* [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
+* [Regularization in Machine Learning - Explained](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
