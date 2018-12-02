@@ -33,6 +33,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
+* [100 Basic Data Science Interview Questions along with answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 * [The DOs and DONTs of PCA(Principal Component Analysis)](https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48)
 * [An Introduction to SVMs](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
