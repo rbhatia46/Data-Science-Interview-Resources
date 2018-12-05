@@ -19,6 +19,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [What it's like to Interview as a Data Scientist](https://www.youtube.com/watch?v=0HmAEWPfMnM)
 * [5 Tips for getting a Data Science Job](https://www.youtube.com/watch?v=MfP-P8EHGBo)
 * [8 Frequently used Data Science Algorithms](https://www.youtube.com/watch?v=z3wMgOTSE5s) 
+* [How to Select Features](https://www.youtube.com/watch?v=YaKMeAlHgqQ)
 * [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY)
 * [Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
 * [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM)
