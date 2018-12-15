@@ -2,7 +2,7 @@
 
 With an increase in demand for so many Data Scientists, it's really hard to successfully get screened and accepted for an interview. Now that you have got one, make sure to nail it with the following resources.
 
-Every Resource I list here is personally verified by me and most of them I have used personally, which have helped me a lot.
+Every Resource I list here is personally verified by me and most of them I have used personally, which have helped me a lot in fetching my first Data Science job.
 
 **Word of Caution:** Data Science/Machine Learning has a very big domain and there are a lot of things to learn. This by no means is an exhaustive list and is just for helping you out if you are struggling to find some good resources to start your preparation.
 
