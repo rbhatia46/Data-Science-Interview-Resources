@@ -62,6 +62,8 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks)
 * [A Data Scientist's take on Interview Questions](https://towardsdatascience.com/my-take-on-data-scientist-interview-questions-part-1-6df22252b2e8)
 * [What is Cross Entropy(Nice and Short Explanation)](https://stackoverflow.com/questions/41990250/what-is-cross-entropy/41990932#41990932)
+* [What does an ideal Data Scientist's profile look like](https://towardsdatascience.com/what-does-an-ideal-data-scientists-profile-look-like-7d7bd78ff7ab)
+* [25 Fun Questions for a Machine Learning interview](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa)
 * [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
@@ -73,4 +75,4 @@ Every Resource I list here is personally verified by me and most of them I have 
 ## Additional/Interesting Reads
 * [3 Common Data Science Career Transitions and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
 * [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
-
+* [Navigating the Data Science Career Landscape](https://hackernoon.com/navigating-the-data-science-career-landscape-db746a61ac62)
