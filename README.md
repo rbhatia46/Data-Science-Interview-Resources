@@ -44,6 +44,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
 * [The DOs and DONTs of PCA(Principal Component Analysis)](https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48)
 * [An Introduction to SVMs](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+* [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
 * [How do I prepare for a Data Science phone interview at Airbnb](https://www.quora.com/How-do-I-prepare-for-a-phone-interview-for-a-data-scientist-position-with-Airbnb)
 * [Advice on building Data Portfolio Projects](https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627)
