@@ -25,6 +25,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM)
 * [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
 * [The Complete Machine Learning Interview Preparation Playlist](https://www.youtube.com/playlist?list=PLS1m5eEAg-6moCMFTfIghNa6DjmxxXY1O)
+* [Why Regularization reduces overfitting in Deep Neural Networks](https://www.youtube.com/watch?v=4nqD5TBlOWU)
 * [Scenario Based Practical Interview](https://www.youtube.com/watch?v=bJPhEa3mbwo)
 * [KNN v/s K Means](https://www.youtube.com/watch?v=OClrEI_5Ri4)
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
