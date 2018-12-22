@@ -48,6 +48,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
 * [How do I prepare for a Data Science phone interview at Airbnb](https://www.quora.com/How-do-I-prepare-for-a-phone-interview-for-a-data-scientist-position-with-Airbnb)
+* [How to ace the In person Data Science Interview](https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a)
 * [Advice on building Data Portfolio Projects](https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627)
 * [How to land a Data Scientist job at Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 * [120 Data Science Interview Questions(from all domains)](https://github.com/kojino/120-Data-Science-Interview-Questions)
