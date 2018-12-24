@@ -84,3 +84,4 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Navigating the Data Science Career Landscape](https://hackernoon.com/navigating-the-data-science-career-landscape-db746a61ac62)
 * [2 way to deploy your ML models](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
 * [Which model and how much data](https://towardsdatascience.com/which-model-and-how-much-data-75a3999660f3)
+* [Implementation of SMOTE algorithm in Python to handle class imbalance](https://www.kaggle.com/qianchao/smote-with-imbalance-data)
