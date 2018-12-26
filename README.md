@@ -51,6 +51,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [How to ace the In person Data Science Interview](https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a)
 * [Advice on building Data Portfolio Projects](https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627)
 * [How to land a Data Scientist job at Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
+* [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0)
 * [120 Data Science Interview Questions(from all domains)](https://github.com/kojino/120-Data-Science-Interview-Questions)
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 * [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
