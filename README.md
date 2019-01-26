@@ -39,6 +39,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 ## Reading Resources
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* [The Most Comprehensive Data Science Interview Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
 * [The Big List of DS and ML interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 * [100 Basic Data Science Interview Questions along with answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
