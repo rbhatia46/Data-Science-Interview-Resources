@@ -72,6 +72,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [A Data Scientist's take on Interview Questions](https://towardsdatascience.com/my-take-on-data-scientist-interview-questions-part-1-6df22252b2e8)
 * [What is Cross Entropy(Nice and Short Explanation)](https://stackoverflow.com/questions/41990250/what-is-cross-entropy/41990932#41990932)
 * [What does an ideal Data Scientist's profile look like](https://towardsdatascience.com/what-does-an-ideal-data-scientists-profile-look-like-7d7bd78ff7ab)
+* [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 * [25 Fun Questions for a Machine Learning interview](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa)
 * [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
