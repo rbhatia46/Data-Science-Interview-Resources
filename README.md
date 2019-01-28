@@ -77,6 +77,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [25 Fun Questions for a Machine Learning interview](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa)
 * [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
+* [How to develop a Machine Learning Model from scratch](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 * [End to End guide for a Machine Learning Project](https://medium.com/fintechexplained/end-to-end-guide-for-machine-learning-project-146c288186dc)
 * [Classification v/s Regression](https://medium.com/fintechexplained/supervised-machine-learning-regression-vs-classification-18b2f97708de)
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
