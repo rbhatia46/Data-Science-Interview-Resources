@@ -41,6 +41,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [The Most Comprehensive Data Science Interview Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
+* [5 interview questions to predict a good Data Scientist](https://medium.com/predict/five-interview-questions-to-predict-a-good-data-scientist-40d310cdcd68)
 * [8 proven ways to improve the accuracy of your ML model ](https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
 * [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
