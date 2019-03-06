@@ -47,6 +47,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * [The Big List of DS and ML interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 * [100 Basic Data Science Interview Questions along with answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
+* [40 interview questions asked at Startups in ML/DS Interview](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
 * [The DOs and DONTs of PCA(Principal Component Analysis)](https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48)
 * [An Introduction to SVMs](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
