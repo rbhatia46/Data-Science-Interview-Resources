@@ -54,6 +54,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Get your Data Science Resume past the ATS](https://towardsdatascience.com/up-level-your-data-science-resume-getting-past-ats-64322f0cbb73)
 * [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
+* [My Data Science/Machine Learning Job Interview Experience : List of DS/ML/DL Questions &#8211; Machine Learning in Action](https://appliedmachinelearning.blog/2018/04/13/my-data-science-machine-learning-job-interview-experience-list-of-ds-ml-dl-questions/)
 * [How do I prepare for a Data Science phone interview at Airbnb](https://www.quora.com/How-do-I-prepare-for-a-phone-interview-for-a-data-scientist-position-with-Airbnb)
 * [Best ML algorithm for regression problems](https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef)
 * [How to ace the In person Data Science Interview](https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a)
