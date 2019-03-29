@@ -48,6 +48,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [5 interview questions to predict a good Data Scientist](https://medium.com/predict/five-interview-questions-to-predict-a-good-data-scientist-40d310cdcd68)
 * [8 proven ways to improve the accuracy of your ML model ](https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
+* [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 * [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * [The Big List of DS and ML interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 * [100 Basic Data Science Interview Questions along with answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
