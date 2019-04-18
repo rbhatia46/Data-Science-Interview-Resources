@@ -93,6 +93,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
 * [How to develop a Machine Learning Model from scratch](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 * [End to End guide for a Machine Learning Project](https://medium.com/fintechexplained/end-to-end-guide-for-machine-learning-project-146c288186dc)
+* [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 * [Classification v/s Regression](https://medium.com/fintechexplained/supervised-machine-learning-regression-vs-classification-18b2f97708de)
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
