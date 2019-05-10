@@ -1,3 +1,5 @@
+ [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Data-Science-Interview-Resources})
+
 # Data-Science-Interview-Resources
 
 With an increase in demand for so many Data Scientists, it's really hard to successfully get screened and accepted for an interview. Now that you have got one, make sure to nail it with the following resources.
