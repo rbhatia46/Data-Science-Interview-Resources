@@ -1,3 +1,8 @@
+ <a href="https://tracking.gitads.io/?repo=Data-Science-Interview-Resources"><img src="https://images.gitads.io/Data-Science-Interview-Resources" alt=“GitAds”/></a>
+
+You can support me by clicking on the above ad, it really helps me to create amazing open source projects which help the open source community. Thanks!
+
+ 
  [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Data-Science-Interview-Resources})
 
 # Data-Science-Interview-Resources
