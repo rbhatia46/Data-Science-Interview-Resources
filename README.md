@@ -1,11 +1,39 @@
  Data-Science-Interview-Resources is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
  
- <a href="https://tracking.gitads.io/?repo=Data-Science-Interview-Resources"><img src="https://images.gitads.io/Data-Science-Interview-Resources" alt=“GitAds”/></a>
+ <a href="https://tracking.gitads.io/?repo=Data-Science-Interview-Resources"><img src="https://images.gitads.io/Data-Science-Interview-Resources" alt="GitAds"/></a>
 
  
  [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Data-Science-Interview-Resources})
 
 # Data-Science-Interview-Resources
+
+First of all, thanks for visiting this repo, congratulations on making a great career choice, I aim to help you land an amazing Data Science job that you have been dreaming for, by sharing my experience, interviewing heavily at both large product-based companies and fast-growing startups, hope you find it useful.
+
+## How to get an interview ?
+
+* First and foremost, **develop the necessary skills and be sound with the fundamentals**, these are some of the horizons you should be extremely comfortable with - 
+  - Business Understanding(this is extremely critical across all seniority levels, but specifically for people with more than 3 years of experience)
+  - SQL and Databases(very crucial)
+  - Programming Skills(preferably in Python)
+  - Mathematics(Probability, Statistics, Linear Algebra and Calculus) - https://medium.com/@rbhatia46/essential-probability-statistics-concepts-before-data-science-bb787b7a5aef 
+  - Machine Learning(this includes Deep Learning) and Model building
+  - Data Structures and Algorithms(must and mandatory for top product based companies like FAANG)
+  - Domain Understanding(Optional for most openings, though very critical for some roles based on company's requirement)
+  - Literature Review(must for Research based roles) : Being able to read and understand a new research paper is one of the most essential and demanding skills needed in the industry today, as the culture of Research and Development, and innovation grows across most good organizations.
+  - Communication Skills - Being able to explain the analysis and results to business stakeholders and executives is becoming a really important skill for Data Scientists these days
+  - Some Engineering knowledge(Not mandatory, but good to have) - Being able to develop a RESTful API, writing clean and elegant code, Object Oriented programming are some of the things you can focus on for some extra brownie points.
+  - Big data knowledge(not mandatory for most openings, but good to have) - Spark, Hive, Hadoop.
+
+* **Build a personal Brand** 
+  - Develop a good GitHub/portfolio of use-cases you have solved, always strive for solving end-to-end use cases, which demonstrate the entire Data Science lifecycle, from business understanding to model deployment. 
+  - Write blogs, start a YouTube channel if you enjoy teaching, write a book.
+  - Work on a digital, easy-to-open, easy-to-read, clean, concise and easily customizable Resume/CV, always include your demo links and source code of every use-case you have solved.
+  - Participate in Kaggle competitions, build a good Kaggle profile and send them to potential employers for increasing the chances of getting an interview call real-quick.
+
+* **Develop good connections**, through LinkedIn, by attending conferences, and doing everything you can, it's very important to land referrals and get yourself started with the interview process through good connections. Connect regularly with Data Scientists working at top product-based organizations, fast-growing startups, build a network, slowly and steadily, it's very important.
+  
+***
+  
 
 With an increase in demand for so many Data Scientists, it's really hard to successfully get screened and accepted for an interview. Now that you have got one, make sure to nail it with the following resources.
 
