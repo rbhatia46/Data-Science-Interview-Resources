@@ -62,6 +62,13 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw) 📹
 * [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
 
+### 2. Tree Based Algorithms
+
+* [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) 📘
+* [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) 📘
+* [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
+
+
 ## Video Resources
 
 * [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY)
