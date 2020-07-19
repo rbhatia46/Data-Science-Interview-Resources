@@ -9,6 +9,14 @@
 
 First of all, thanks for visiting this repo, congratulations on making a great career choice, I aim to help you land an amazing Data Science job that you have been dreaming for, by sharing my experience, interviewing heavily at both large product-based companies and fast-growing startups, hope you find it useful.
 
+With an increase in demand for so many Data Scientists, it's really hard to successfully get screened and accepted for an interview. In this repo, I include everything from getting successfully screened and rocking that interview to land that amazing position, make sure to nail it with the following resources.
+
+Every Resource I list here is personally verified by me and most of them I have used personally, which have helped me a lot.
+
+**Word of Caution:** Data Science/Machine Learning has a very big domain and there are a lot of things to learn. This by no means is an exhaustive list and is just for helping you out if you are struggling to find some good resources to start your preparation. However, I try to cover and update this frequently and my goal is to cover and unify everything into one resource that you can use to rock those interviews! Please leave a star if you appreciate the effort.
+
+**Note:** For contribution, refer [Contribution.md](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/Contribution.md)
+
 ## How to get an interview ?
 
 * First and foremost, **develop the necessary skills and be sound with the fundamentals**, these are some of the horizons you should be extremely comfortable with - 
@@ -30,18 +38,19 @@ First of all, thanks for visiting this repo, congratulations on making a great c
   - Work on a digital, easy-to-open, easy-to-read, clean, concise and easily customizable Resume/CV, always include your demo links and source code of every use-case you have solved.
   - Participate in Kaggle competitions, build a good Kaggle profile and send them to potential employers for increasing the chances of getting an interview call real-quick.
 
-* **Develop good connections**, through LinkedIn, by attending conferences, and doing everything you can, it's very important to land referrals and get yourself started with the interview process through good connections. Connect regularly with Data Scientists working at top product-based organizations, fast-growing startups, build a network, slowly and steadily, it's very important.
+* **Develop good connections**, through LinkedIn, by attending conferences, and doing everything you can, it's very important to land referrals and get yourself started with the interview process through good connections. Connect regularly with Data Scientists working at top product-based organizations, fast-growing startups, build a network, slowly and steadily, it's very important.`
   
 ***
-  
 
-With an increase in demand for so many Data Scientists, it's really hard to successfully get screened and accepted for an interview. Now that you have got one, make sure to nail it with the following resources.
+## Machine Learning Algorithms
 
-Every Resource I list here is personally verified by me and most of them I have used personally, which have helped me a lot.
+### 1. Logistic Regression
 
-**Word of Caution:** Data Science/Machine Learning has a very big domain and there are a lot of things to learn. This by no means is an exhaustive list and is just for helping you out if you are struggling to find some good resources to start your preparation.
-
-**Note:** For contribution, refer [Contribution.md](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/Contribution.md)
+* [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad) 📘 
+* [Understanding Logistic Regression step-by-step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a) 📘 
+* [Logistic Regression - Short and Clear Explanation - 9 Mins](https://www.youtube.com/watch?v=yIYKR4sgzI8) 📹
+* [Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw) 📹
+* [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
 
 ## Video Resources
 
@@ -65,7 +74,6 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Scenario Based Practical Interview](https://www.youtube.com/watch?v=bJPhEa3mbwo)
 * [KNN v/s K Means](https://www.youtube.com/watch?v=OClrEI_5Ri4)
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
-* [Logistic Regression - Short and Clear Explanation](https://www.youtube.com/watch?v=yIYKR4sgzI8)
 * [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE)
 * [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 * [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30)
@@ -83,6 +91,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [5 interview questions to predict a good Data Scientist](https://medium.com/predict/five-interview-questions-to-predict-a-good-data-scientist-40d310cdcd68)
 * [8 proven ways to improve the accuracy of your ML model ](https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
+* [60 Interview Questions on Machine Learning - AnalyticsIndiaMag](https://analyticsindiamag.com/60-interview-questions-on-machine-learning/)
 * [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 * [12 tips to make most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/)
 * [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
@@ -145,4 +154,3 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Navigating the Data Science Career Landscape](https://hackernoon.com/navigating-the-data-science-career-landscape-db746a61ac62)
 * [2 way to deploy your ML models](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
 * [Which model and how much data](https://towardsdatascience.com/which-model-and-how-much-data-75a3999660f3)
-* [Implementation of SMOTE algorithm in Python to handle class imbalance](https://www.kaggle.com/qianchao/smote-with-imbalance-data)
