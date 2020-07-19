@@ -39,6 +39,16 @@ Every Resource I list here is personally verified by me and most of them I have 
   - Participate in Kaggle competitions, build a good Kaggle profile and send them to potential employers for increasing the chances of getting an interview call real-quick.
 
 * **Develop good connections**, through LinkedIn, by attending conferences, and doing everything you can, it's very important to land referrals and get yourself started with the interview process through good connections. Connect regularly with Data Scientists working at top product-based organizations, fast-growing startups, build a network, slowly and steadily, it's very important.`
+
+## Some Tips on Resume/CV:
+* Describe past roles and an impact you made in a **quantifiable** way, be concise and I repeat, **quantify** the impact, rather than talking with facts that have no relevance. According to Google Recruiters, use the XYZ formula - 
+```Accomplished [X] as measured by [Y], by doing [Z]```
+
+* Keep it short, ideally not more than 2 pages, as you might know, an average recruiter scans your resume only for 6 seconds, and makes a decision based on that.
+
+* If you are a fresher and don't have experience, try to solve end-to-end use-cases and mention them in your CV, preferably with the demo link(makes it easy for the recruiter) and the link to source code on GitHub.
+
+* Avoid too much technical jargon, and this goes without saying, do not mention anything you are not confident about, this might become a major bottleneck during your interview.
   
 ***
 
