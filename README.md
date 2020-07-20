@@ -67,7 +67,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) 📘
 * [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) 📘
 * [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
-
+* [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631)
 
 ## Video Resources
 
