@@ -72,6 +72,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [6 Different Ways to Compensate for Missing Values In a Dataset ](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) 📘 
 * [A Brief Overview of Outlier Detection Techniques](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) 📘 
 * [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) 📘 
+* [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea) 📘
 * [Ways to detect and remove Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba) 📘
 * [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2) 📘
 * [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
@@ -80,6 +81,8 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e) 📘
 * [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) 📘
 * [Everything you need to know about Scatter plots](https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5) 📘
+* [How to Select Features for Machine Learning](https://www.youtube.com/watch?v=YaKMeAlHgqQ) 📹
+
 
 
 ***
@@ -155,6 +158,9 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [21 Popular Deep Learning Interview Questions](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/) 📘
 * [Deep Learning Interview Questions - Edureka](https://www.youtube.com/watch?v=HGXlFG_Rz4E) 📹
 * [Activation Functions in a Neural Network - Explained](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) 📘
+* [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE) 📹
+* [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA) 📹
+* [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks) 📘
 
 ***
 ## Machine Learning Interpretability
@@ -168,7 +174,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Kaggle Data Science Glossary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) 📘
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) 📘
 
-## Video Resources
+## General Interview Questions across the Spectrum (Video)
 
 * [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY)
 * [Common Machine Learning Interview Question - Edureka](https://www.youtube.com/watch?v=t6gOpFLt-Ks)
@@ -179,15 +185,11 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [What it's like to Interview as a Data Scientist](https://www.youtube.com/watch?v=0HmAEWPfMnM)
 * [5 Tips for getting a Data Science Job](https://www.youtube.com/watch?v=MfP-P8EHGBo)
 * [8 Frequently used Data Science Algorithms](https://www.youtube.com/watch?v=z3wMgOTSE5s) 
-* [How to Select Features](https://www.youtube.com/watch?v=YaKMeAlHgqQ)
-* [The Complete Machine Learning Interview Preparation Playlist](https://www.youtube.com/playlist?list=PLS1m5eEAg-6moCMFTfIghNa6DjmxxXY1O)
 * [Scenario Based Practical Interview](https://www.youtube.com/watch?v=bJPhEa3mbwo)
 * [KNN v/s K Means](https://www.youtube.com/watch?v=OClrEI_5Ri4)
-* [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
-* [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE)
 
 
-## General Interview Questions across the Spectrum
+## General Interview Questions across the Spectrum (Reading)
 * [The Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [Top 30 Data Science Interview Questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
@@ -209,11 +211,9 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [How to land a Data Scientist job at Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 * [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0)
 * [120 Data Science Interview Questions(from all domains)](https://github.com/kojino/120-Data-Science-Interview-Questions)
-* [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [You Need these Cheatsheets if you are tackling ML algorithms](https://medium.freecodecamp.org/you-need-these-cheat-sheets-if-youre-tackling-machine-learning-algorithms-45da5743888e)
 * [Red Flags in a Data Science Interview](https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4)
-* [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks)
 * [A Data Scientist's take on Interview Questions](https://towardsdatascience.com/my-take-on-data-scientist-interview-questions-part-1-6df22252b2e8)
 * [What is Cross Entropy(Nice and Short Explanation)](https://stackoverflow.com/questions/41990250/what-is-cross-entropy/41990932#41990932)
 * [What does an ideal Data Scientist's profile look like](https://towardsdatascience.com/what-does-an-ideal-data-scientists-profile-look-like-7d7bd78ff7ab)
