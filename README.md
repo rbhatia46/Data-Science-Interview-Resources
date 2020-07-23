@@ -145,8 +145,8 @@ Every Resource I list here is personally verified by me and most of them I have 
 ## Unsupervised Learning
 * [The DOs and DONTs of PCA(Principal Component Analysis)](https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48) 📘
 * [An introduction to t-SNE : DataCamp](https://www.datacamp.com/community/tutorials/introduction-t-sne) 📘
-* [Dimensionally Reducing Squeezing out the good stuuf](https://www.youtube.com/watch?v=4QMFNg7tjbk)
-* [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
+* [Dimensionally Reducing Squeezing out the good stuff](https://www.youtube.com/watch?v=4QMFNg7tjbk) 📘
+* [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79) 📘
 
 
 ***
@@ -161,9 +161,17 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE) 📹
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA) 📹
 * [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks) 📘
+* [25 Deep Learning Interview Qurstions to test your knowledge](https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61) 📘
 
 ***
 ## Machine Learning Interpretability
+* [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/)
+* [Machine Learning Explanaibility - Crash Course by Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)
+
+***
+## Case Studies
+Case studies are extremely important for interviews, below are some resources to practice, think first before looking at the solutions.
+* [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/)
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
