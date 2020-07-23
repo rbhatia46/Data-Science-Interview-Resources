@@ -60,8 +60,13 @@ Every Resource I list here is personally verified by me and most of them I have 
 ## Probability and Statistics
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
+* [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
+* [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹
+* [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
+
+
 ***
-## Data Preparation
+## Data Preparation and Visualization
 
 * [5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2) 📘 
 * [6 Different Ways to Compensate for Missing Values In a Dataset ](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) 📘 
@@ -69,7 +74,12 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) 📘 
 * [Ways to detect and remove Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba) 📘
 * [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2) 📘
-
+* [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
+* [Numpy and Pandas Cheatsheet](https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf) 📘
+* [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html) 📘
+* [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e) 📘
+* [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) 📘
+* [Everything you need to know about Scatter plots](https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5) 📘
 
 
 ***
@@ -88,19 +98,27 @@ Every Resource I list here is personally verified by me and most of them I have 
 ### 2. Linear Regression
 
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
+* [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
+* [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
+* [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30) 📹
+* [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs) 📹
 
-### 3. Tree Based Algorithms
+
+### 3. Tree Based/Ensemble Algorithms
 
 * [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) 📘
 * [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) 📘
 * [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
 * [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631) 📘
+* [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 📘
+
 
 ### 4. K-Nearest-Neighbors
 
 * [Fundamental Interview Questions on KNN - A Quick refresh](http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html) 📘
 * [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/) 📘
 * [Pros and Cons of KNN](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/) 📘
+* [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE) 📹
 
 ### 5. Support Vector Machines
 
@@ -109,9 +127,9 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 ### 6. Naive Bayes
 
-* [12 tips to make most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/)
-* [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM)
-
+* [12 tips to make most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/) 📘
+* [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM) 📹
+* [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/) 📘
 
 
 ***
@@ -122,7 +140,21 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 ***
 ## Unsupervised Learning
-* 
+* [The DOs and DONTs of PCA(Principal Component Analysis)](https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48) 📘
+* [An introduction to t-SNE : DataCamp](https://www.datacamp.com/community/tutorials/introduction-t-sne) 📘
+* [Dimensionally Reducing Squeezing out the good stuuf](https://www.youtube.com/watch?v=4QMFNg7tjbk)
+* [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
+
+
+***
+## Deep Learning
+* [Why Regularization reduces overfitting in Deep Neural Networks](https://www.youtube.com/watch?v=4nqD5TBlOWU) 📹
+* [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b) 📘
+* [When not to use Neural Networks](https://medium.com/datadriveninvestor/when-not-to-use-neural-networks-89fb50622429) 📘
+* [40 Questions to test a Data Scientist on Deep learning](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/) 📘
+* [21 Popular Deep Learning Interview Questions](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/) 📘
+* [Deep Learning Interview Questions - Edureka](https://www.youtube.com/watch?v=HGXlFG_Rz4E) 📹
+* [Activation Functions in a Neural Network - Explained](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) 📘
 
 ***
 ## Machine Learning Interpretability
@@ -130,7 +162,11 @@ Every Resource I list here is personally verified by me and most of them I have 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
 * [Top 13 Skills To Become a Rockstar Data Scientist](https://towardsdatascience.com/top-13-skills-to-become-a-rockstar-data-scientist-faf2f97e655d) 📘 
-
+* [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52) 📘
+* [12 things I wish I knew before starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e) 📘
+* [Understand the Data Science pipeline](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3) 📘
+* [Kaggle Data Science Glossary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) 📘
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) 📘
 
 ## Video Resources
 
@@ -144,18 +180,11 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [5 Tips for getting a Data Science Job](https://www.youtube.com/watch?v=MfP-P8EHGBo)
 * [8 Frequently used Data Science Algorithms](https://www.youtube.com/watch?v=z3wMgOTSE5s) 
 * [How to Select Features](https://www.youtube.com/watch?v=YaKMeAlHgqQ)
-* [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY)
-* [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
 * [The Complete Machine Learning Interview Preparation Playlist](https://www.youtube.com/playlist?list=PLS1m5eEAg-6moCMFTfIghNa6DjmxxXY1O)
-* [Dimensionally Reducing Squeezing out the good stuuf](https://www.youtube.com/watch?v=4QMFNg7tjbk)
-* [Why Regularization reduces overfitting in Deep Neural Networks](https://www.youtube.com/watch?v=4nqD5TBlOWU)
 * [Scenario Based Practical Interview](https://www.youtube.com/watch?v=bJPhEa3mbwo)
 * [KNN v/s K Means](https://www.youtube.com/watch?v=OClrEI_5Ri4)
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 * [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE)
-* [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
-* [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30)
-* [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs)
 
 
 ## General Interview Questions across the Spectrum
@@ -169,58 +198,35 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [List of AI Startups in India and resources for preparing for the interview](https://github.com/theainerd/MLInterview)
 * [5 interview questions to predict a good Data Scientist](https://medium.com/predict/five-interview-questions-to-predict-a-good-data-scientist-40d310cdcd68)
 * [8 proven ways to improve the accuracy of your ML model ](https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/)
-
 * [60 Interview Questions on Machine Learning - AnalyticsIndiaMag](https://analyticsindiamag.com/60-interview-questions-on-machine-learning/)
-* [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * [The Big List of DS and ML interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 * [100 Basic Data Science Interview Questions along with answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 * [40 interview questions asked at Startups in ML/DS Interview](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
-
-* [The DOs and DONTs of PCA(Principal Component Analysis)](https://medium.com/@sadatnazrul/the-dos-and-donts-of-principal-component-analysis-7c2e9dc8cc48)
-* [An Introduction to SVMs](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
-* [An introduction to t-SNE : DataCamp](https://www.datacamp.com/community/tutorials/introduction-t-sne)
-* [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f)
-* [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
 * [My Data Science/Machine Learning Job Interview Experience : List of DS/ML/DL Questions &#8211; Machine Learning in Action](https://appliedmachinelearning.blog/2018/04/13/my-data-science-machine-learning-job-interview-experience-list-of-ds-ml-dl-questions/)
 * [How do I prepare for a Data Science phone interview at Airbnb](https://www.quora.com/How-do-I-prepare-for-a-phone-interview-for-a-data-scientist-position-with-Airbnb)
 * [Best ML algorithm for regression problems](https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef)
 * [How to ace the In person Data Science Interview](https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a)
-* [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e)
-* [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13)
 * [How to land a Data Scientist job at Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 * [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0)
 * [120 Data Science Interview Questions(from all domains)](https://github.com/kojino/120-Data-Science-Interview-Questions)
-
 * [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [You Need these Cheatsheets if you are tackling ML algorithms](https://medium.freecodecamp.org/you-need-these-cheat-sheets-if-youre-tackling-machine-learning-algorithms-45da5743888e)
-* [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html)
 * [Red Flags in a Data Science Interview](https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4)
-* [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52)
-* [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
-* [Activation Functions in a Neural Network - Explained](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
-* [Kaggle Data Science Glossary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 * [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks)
 * [A Data Scientist's take on Interview Questions](https://towardsdatascience.com/my-take-on-data-scientist-interview-questions-part-1-6df22252b2e8)
 * [What is Cross Entropy(Nice and Short Explanation)](https://stackoverflow.com/questions/41990250/what-is-cross-entropy/41990932#41990932)
 * [What does an ideal Data Scientist's profile look like](https://towardsdatascience.com/what-does-an-ideal-data-scientists-profile-look-like-7d7bd78ff7ab)
-* [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 * [25 Fun Questions for a Machine Learning interview](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa)
 * [How to Prepare for Machine Learning Interviews](https://towardsdatascience.com/how-to-prepare-for-machine-learning-interviews-5fac3db58168)
 * [How to develop a Machine Learning Model from scratch](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 * [End to End guide for a Machine Learning Project](https://medium.com/fintechexplained/end-to-end-guide-for-machine-learning-project-146c288186dc)
-* [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 * [Classification v/s Regression](https://medium.com/fintechexplained/supervised-machine-learning-regression-vs-classification-18b2f97708de)
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
-* [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
 * [Regularization in Machine Learning - Explained](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
-* [Understand the Data Science pipeline](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
-* [Gentle Introduction to EDA](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184)
-* [Numpy and Pandas Cheatsheet](https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf)
 
-## Additional/Interesting Reads
+## Interesting Reads
 * [3 Common Data Science Career Transitions and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
 * [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
 * [How to solve 90% of NLP Problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
