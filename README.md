@@ -64,6 +64,17 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹
 * [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
 
+***
+
+## SQL and Data Acquisition
+This is probably the entry point of your Data Science project, SQL is one of the most important skills for any Data Scientist.
+
+* [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
+* [46 Questions to test a Data Scientist on SQL](https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/) 📘
+* [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
+* [How to ace Data Science Interviews - SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433) 📘
+* [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
+* [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
 
 ***
 ## Data Preparation and Visualization
@@ -220,7 +231,6 @@ Case studies are extremely important for interviews, below are some resources to
 * [Best ML algorithm for regression problems](https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef)
 * [How to ace the In person Data Science Interview](https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a)
 * [How to land a Data Scientist job at Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
-* [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0)
 * [120 Data Science Interview Questions(from all domains)](https://github.com/kojino/120-Data-Science-Interview-Questions)
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [You Need these Cheatsheets if you are tackling ML algorithms](https://medium.freecodecamp.org/you-need-these-cheat-sheets-if-youre-tackling-machine-learning-algorithms-45da5743888e)
@@ -236,6 +246,19 @@ Case studies are extremely important for interviews, below are some resources to
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
 * [Regularization in Machine Learning - Explained](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
+
+
+***
+
+## Data Structures and Algorithms(Optional)
+Although this might be optional, but do not miss this if the Job Description explicitly asks for this, and especially never miss this if you are interviewing at FAANG and similar organizations, or if you have a CS Background. You don't have to be as good as an SDE at this, but at least know the basics.
+
+* [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0) 📘
+* [Handling Trees in Data Science Algorithmic Interview](https://towardsdatascience.com/handling-trees-in-data-science-algorithmic-interview-ea14dd1b6236) 📘
+
+
+
+***
 
 ## Interesting Reads
 * [3 Common Data Science Career Transitions and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
