@@ -172,6 +172,9 @@ Every Resource I list here is personally verified by me and most of them I have 
 ## Case Studies
 Case studies are extremely important for interviews, below are some resources to practice, think first before looking at the solutions.
 * [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/)
+* [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/)
+* [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/)
+* [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654)
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
