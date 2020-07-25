@@ -4,6 +4,8 @@
 
  
  [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Data-Science-Interview-Resources})
+![Star this repository](https://img.shields.io/github/stars/rbhatia46/Data-Science-Interview-Resources?style=social)
+
 
 # Data-Science-Interview-Resources
 
