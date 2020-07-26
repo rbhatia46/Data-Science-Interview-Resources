@@ -76,7 +76,9 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
 * [How to ace Data Science Interviews - SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433) 📘
 * [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
+* [10 frequently asked SQL Queries in Interviews](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) 📘
 * [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
+* [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query)
 
 ***
 ## Data Preparation and Visualization
