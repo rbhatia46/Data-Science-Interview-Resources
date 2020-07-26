@@ -82,7 +82,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
 * [10 frequently asked SQL Queries in Interviews](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) 📘
 * [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
-* [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query)
+* [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query) 📘
 
 ***
 ## Data Preparation and Visualization
@@ -186,8 +186,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 ***
 ## Machine Learning Interpretability
-* [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/)
-* [Machine Learning Explanaibility - Crash Course by Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)
+* [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/) 📘
+* [Machine Learning Explanaibility - Crash Course by Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) 📘
 
 ***
 ## Case Studies
@@ -229,6 +229,8 @@ Although this might be optional, but do not miss this if the Job Description exp
 ## Engineering and Deployment
 * [A Layman’s Guide for Data Scientists to create APIs in minutes](https://mlwhiz.com/blog/2020/06/06/fastapi_for_data_scientists/) 📘
 * [Take your Machine Learning Models to Production with these 5 simple steps](https://mlwhiz.com/blog/2019/12/25/prod/) 📘
+* [2 way to deploy your ML models](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1) 📘
+* [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) 📘
 
 ***
 ## General Interview Questions across the Spectrum (Video)
@@ -286,8 +288,6 @@ Although this might be optional, but do not miss this if the Job Description exp
 ***
 ## Interesting Reads
 * [3 Common Data Science Career Transitions and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
-* [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
 * [How to solve 90% of NLP Problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [Navigating the Data Science Career Landscape](https://hackernoon.com/navigating-the-data-science-career-landscape-db746a61ac62)
-* [2 way to deploy your ML models](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
 * [Which model and how much data](https://towardsdatascience.com/which-model-and-how-much-data-75a3999660f3)
