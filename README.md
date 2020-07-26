@@ -65,6 +65,10 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
 * [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹
 * [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
+* [Confidence Intervals Explained Simply for Data Scientists](https://mlwhiz.com/blog/2020/02/21/ci/) 📘
+* [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 📘
+* [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
+* [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
 
 ***
 
@@ -129,6 +133,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
 * [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631) 📘
 * [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 📘
+* [The Simple Math behind 3 Decision Tree Splitting criterions](https://mlwhiz.com/blog/2019/11/12/dtsplits/) 📘
 
 
 ### 4. K-Nearest-Neighbors
@@ -178,6 +183,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks) 📘
 * [25 Deep Learning Interview Qurstions to test your knowledge](https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61) 📘
 
+
 ***
 ## Machine Learning Interpretability
 * [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/)
@@ -186,20 +192,45 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## Case Studies
 Case studies are extremely important for interviews, below are some resources to practice, think first before looking at the solutions.
-* [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/)
-* [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/)
-* [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/)
-* [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654)
+* [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/) 📘
+* [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/) 📘
+* [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/) 📘
+* [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654) 📘
+* [End-to-End multiclass Text Classification pipeline](https://mlwhiz.com/blog/2020/05/24/multitextclass/) 📘
+* [End-to-End multiclass Image Classification pipeline](https://mlwhiz.com/blog/2020/06/06/multiclass_image_classification_pytorch/) 📘
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
+Going through these will definately add extra brownie points, so don't miss these if you got time.
+
 * [Top 13 Skills To Become a Rockstar Data Scientist](https://towardsdatascience.com/top-13-skills-to-become-a-rockstar-data-scientist-faf2f97e655d) 📘 
 * [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52) 📘
 * [12 things I wish I knew before starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e) 📘
 * [Understand the Data Science pipeline](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3) 📘
 * [Kaggle Data Science Glossary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) 📘
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) 📘
+* [Running your ML Predictions 50 times faster - Hummingbird](https://mlwhiz.com/blog/2020/06/06/hummingbird_faster_ml_preds/) 📘
+* [3 Mistakes you should not make in a Data Science Interview](https://mlwhiz.com/blog/2019/12/24/mistakes/) 📘
+* [How to find Feature importances for BlackBox Models?](https://mlwhiz.com/blog/2019/12/04/blackbox/) 📘
 
+***
+
+## Data Structures and Algorithms(Optional)
+Although this might be optional, but do not miss this if the Job Description explicitly asks for this, and especially never miss this if you are interviewing at FAANG and similar organizations, or if you have a CS Background. You don't have to be as good as an SDE at this, but at least know the basics.
+
+* [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0) 📘
+* [Handling Trees in Data Science Algorithmic Interview](https://towardsdatascience.com/handling-trees-in-data-science-algorithmic-interview-ea14dd1b6236) 📘
+* [A simple introduction to Linked Lists for Data Scientists](https://mlwhiz.com/blog/2020/01/28/ll/) 📘
+* [Dynamic Programming for Data Scientists](https://mlwhiz.com/blog/2020/01/28/dp/) 📘
+* [3 Programming concepts for Data Scientists](https://mlwhiz.com/blog/2019/12/09/pc/) 📘
+* [Data Scientists, The 5 Graph Algorithms that you should know](https://mlwhiz.com/blog/2019/09/02/graph_algs/) 📘
+
+***
+## Engineering and Deployment
+* [A Layman’s Guide for Data Scientists to create APIs in minutes](https://mlwhiz.com/blog/2020/06/06/fastapi_for_data_scientists/) 📘
+* [Take your Machine Learning Models to Production with these 5 simple steps](https://mlwhiz.com/blog/2019/12/25/prod/) 📘
+
+***
 ## General Interview Questions across the Spectrum (Video)
 
 * [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY)
@@ -253,17 +284,6 @@ Case studies are extremely important for interviews, below are some resources to
 
 
 ***
-
-## Data Structures and Algorithms(Optional)
-Although this might be optional, but do not miss this if the Job Description explicitly asks for this, and especially never miss this if you are interviewing at FAANG and similar organizations, or if you have a CS Background. You don't have to be as good as an SDE at this, but at least know the basics.
-
-* [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0) 📘
-* [Handling Trees in Data Science Algorithmic Interview](https://towardsdatascience.com/handling-trees-in-data-science-algorithmic-interview-ea14dd1b6236) 📘
-
-
-
-***
-
 ## Interesting Reads
 * [3 Common Data Science Career Transitions and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
 * [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
