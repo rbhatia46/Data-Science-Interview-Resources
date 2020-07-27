@@ -169,6 +169,9 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Dimensionally Reducing Squeezing out the good stuff](https://www.youtube.com/watch?v=4QMFNg7tjbk) 📘
 * [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79) 📘
 
+***
+## Recommender Systems
+* [Recommender Systems in a Nutshell](https://www.kdnuggets.com/2020/07/recommender-systems-nutshell.html)
 
 ***
 ## Deep Learning
