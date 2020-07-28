@@ -259,6 +259,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [35 Important Data Science Interview Questions](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [The Most Comprehensive Data Science Interview Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 * [41 essential ML interview questions - Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
+* [30 days of Data Science Interview Preparation - iNeuron](https://github.com/iNeuronai/interview-question-data-science-)
 * [109 Data Science Interview Questions - Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
 * [Most asked Data Science interview questions in India - Springboard](https://in.springboard.com/blog/most-asked-data-science-interview-questions-in-india/)
 * [List of AI Startups in India and resources for preparing for the interview](https://github.com/theainerd/MLInterview)
