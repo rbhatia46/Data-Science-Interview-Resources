@@ -77,6 +77,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 * [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
 * [46 Questions to test a Data Scientist on SQL](https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/) 📘
+* [30 SQL Interview Questions curated for FAANG by an Ex-Facebook Data Scientist](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews) 📘
 * [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
 * [How to ace Data Science Interviews - SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433) 📘
 * [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
