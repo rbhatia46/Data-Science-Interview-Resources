@@ -69,6 +69,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 📘
 * [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
 * [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
+* [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 
 ***
 
@@ -187,7 +188,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA) 📹
 * [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks) 📘
 * [25 Deep Learning Interview Qurstions to test your knowledge](https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61) 📘
-
+* [10 Deep Learning Best Practices to Keep in Mind in 2020](https://nanonets.com/blog/10-best-practices-deep-learning/) 📘
 
 ***
 ## Machine Learning Interpretability
@@ -204,6 +205,8 @@ Case studies are extremely important for interviews, below are some resources to
 * [End-to-End multiclass Text Classification pipeline](https://mlwhiz.com/blog/2020/05/24/multitextclass/) 📘
 * [End-to-End multiclass Image Classification pipeline](https://mlwhiz.com/blog/2020/06/06/multiclass_image_classification_pytorch/) 📘
 * [Large Scale Forecasting for 1000+ products - Nagarro](https://www.youtube.com/watch?v=8jfDBD6xlFM) 📹
+* [Clustering and Classification in E-Commerce](https://lucidworks.com/post/clustering-classification-supervised-unsupervised-learning-ecommerce/) 📘
+* [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/) 📘
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
