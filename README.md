@@ -242,6 +242,11 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) 📘
 
 ***
+## Big Data
+* [55 Apache Spark Interview Questions](https://www.edureka.co/blog/interview-questions/top-apache-spark-interview-questions-2016/) 📘
+* [10 Questions you can expect in a Spark Interview](https://medium.com/analytics-vidhya/10-questions-you-can-expect-in-spark-interview-24b89b807dfb) 📘
+
+***
 ## General Interview Questions across the Spectrum (Video)
 
 * [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY)
