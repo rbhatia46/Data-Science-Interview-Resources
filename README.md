@@ -245,6 +245,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 ## Big Data
 * [55 Apache Spark Interview Questions](https://www.edureka.co/blog/interview-questions/top-apache-spark-interview-questions-2016/) 📘
 * [10 Questions you can expect in a Spark Interview](https://medium.com/analytics-vidhya/10-questions-you-can-expect-in-spark-interview-24b89b807dfb) 📘
+* [Hive Interview Questions](https://www.tutorialspoint.com/hive/hive_interview_questions.htm) 📘
 
 ***
 ## General Interview Questions across the Spectrum (Video)
