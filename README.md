@@ -56,6 +56,7 @@ Every Resource I list here is personally verified by me and most of them I have 
   * [Advice on building Data Portfolio Projects](https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627) 📘
   * [How to write a killer Software Engineering Resume](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/) 📘
   * [Get your Data Science Resume past the ATS](https://towardsdatascience.com/up-level-your-data-science-resume-getting-past-ats-64322f0cbb73) 📘
+  * [How to write a developer résumé that hiring managers will actually read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/) 📘
 
 ***
 
