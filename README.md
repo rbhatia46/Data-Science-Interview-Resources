@@ -1,8 +1,3 @@
- Data-Science-Interview-Resources is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
- 
- <a href="https://tracking.gitads.io/?repo=Data-Science-Interview-Resources"><img src="https://images.gitads.io/Data-Science-Interview-Resources" alt="GitAds"/></a>
-
- 
  [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Data-Science-Interview-Resources})
 ![Star this repository](https://img.shields.io/github/stars/rbhatia46/Data-Science-Interview-Resources?style=social)
 
