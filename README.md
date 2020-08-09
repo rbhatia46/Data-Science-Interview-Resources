@@ -58,6 +58,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 ## Probability and Statistics
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
+* [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
 * [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
 * [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹
 * [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
@@ -203,6 +204,12 @@ Case studies are extremely important for interviews, below are some resources to
 * [Large Scale Forecasting for 1000+ products - Nagarro](https://www.youtube.com/watch?v=8jfDBD6xlFM) 📹
 * [Clustering and Classification in E-Commerce](https://lucidworks.com/post/clustering-classification-supervised-unsupervised-learning-ecommerce/) 📘
 * [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/) 📘
+
+***
+## Data Science Interviews at FAANG and Similar Companies
+* [Amazon’s Data Scientist Interview Practice Problems](https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6) 📘
+* [Microsoft Data Science Interview Questions and Answers](https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) 📘
+* [Problem Solving Questions for Data Science interview at Google](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f) 📘
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
