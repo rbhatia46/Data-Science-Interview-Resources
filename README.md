@@ -52,6 +52,10 @@ Every Resource I list here is personally verified by me and most of them I have 
   * [How to write a killer Software Engineering Resume](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/) 📘
   * [Get your Data Science Resume past the ATS](https://towardsdatascience.com/up-level-your-data-science-resume-getting-past-ats-64322f0cbb73) 📘
   * [How to write a developer résumé that hiring managers will actually read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/) 📘
+***
+Index - 
+1. [Headers](#headers)  
+
 
 ***
 
@@ -116,9 +120,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
 * [Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=VCJdg7YBbAQ) 📹
 
-
+<a name="headers"/>
 ### 2. Linear Regression
-
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
 * [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
