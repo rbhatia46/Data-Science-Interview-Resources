@@ -206,6 +206,13 @@ Case studies are extremely important for interviews, below are some resources to
 * [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/) 📘
 
 ***
+## NLP
+* [30 Questions to test a Data Scientist on NLP](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
+* [11 Most Commonly Asked NLP Interview Questions For Beginners](https://analyticsindiamag.com/11-most-commonly-asked-nlp-interview-questions-for-beginners/)
+* [How to solve 90% of NLP Problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* [Questions asked for NLP Roles at Companies](https://medium.com/modern-nlp/nlp-interview-questions-f062040f32f7)
+
+***
 ## Data Science Interviews at FAANG and Similar Companies
 * [Amazon’s Data Scientist Interview Practice Problems](https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6) 📘
 * [Microsoft Data Science Interview Questions and Answers](https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) 📘
@@ -308,6 +315,5 @@ Although this might be optional, but do not miss this if the Job Description exp
 ***
 ## Interesting Reads
 * [3 Common Data Science Career Transitions and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
-* [How to solve 90% of NLP Problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [Navigating the Data Science Career Landscape](https://hackernoon.com/navigating-the-data-science-career-landscape-db746a61ac62)
 * [Which model and how much data](https://towardsdatascience.com/which-model-and-how-much-data-75a3999660f3)
