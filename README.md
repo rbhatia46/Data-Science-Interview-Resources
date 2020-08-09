@@ -75,9 +75,9 @@ Index -
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 
 ***
-<a name="sql"/>
 ## SQL and Data Acquisition
 This is probably the entry point of your Data Science project, SQL is one of the most important skills for any Data Scientist.
+<a name="sql"/>
 
 * [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
 * [46 Questions to test a Data Scientist on SQL](https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/) 📘
