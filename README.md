@@ -54,11 +54,13 @@ Every Resource I list here is personally verified by me and most of them I have 
   * [How to write a developer résumé that hiring managers will actually read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/) 📘
 ***
 Index - 
-1. [Headers](#headers)  
-
+1. [Probability and Statistics](#prob&stats)  
+2. [SQL and Data Acquisition](#sql)
+3. [Data Preparation and Visualization](#dataprep)
+4. 
 
 ***
-
+<a name="prob&stats"/>
 ## Probability and Statistics
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
@@ -73,7 +75,7 @@ Index -
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 
 ***
-
+<a name="sql"/>
 ## SQL and Data Acquisition
 This is probably the entry point of your Data Science project, SQL is one of the most important skills for any Data Scientist.
 
@@ -89,6 +91,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Ten SQL Concepts You Should Know for Data Science Interviews](https://towardsdatascience.com/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185) 📘
 
 ***
+<a name="dataprep"/>
+
 ## Data Preparation and Visualization
 
 * [5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2) 📘 
@@ -120,8 +124,9 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
 * [Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=VCJdg7YBbAQ) 📹
 
-<a name="headers"/>
+
 ### 2. Linear Regression
+
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
 * [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
