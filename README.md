@@ -27,7 +27,7 @@ Every Resource I list here is personally verified by me and most of them I have 
   - Literature Review(must for Research based roles) : Being able to read and understand a new research paper is one of the most essential and demanding skills needed in the industry today, as the culture of Research and Development, and innovation grows across most good organizations.
   - Communication Skills - Being able to explain the analysis and results to business stakeholders and executives is becoming a really important skill for Data Scientists these days
   - Some Engineering knowledge(Not mandatory, but good to have) - Being able to develop a RESTful API, writing clean and elegant code, Object Oriented programming are some of the things you can focus on for some extra brownie points.
-  - Big data knowledge(not mandatory for most openings, but good to have) - Spark, Hive, Hadoop.
+  - Big data knowledge(not mandatory for most openings, but good to have) - Spark, Hive, Hadoop, Sqoop.
 
 * **Build a personal Brand** 
   - Develop a good GitHub/portfolio of use-cases you have solved, always strive for solving end-to-end use cases, which demonstrate the entire Data Science lifecycle, from business understanding to model deployment. 
