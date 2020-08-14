@@ -19,7 +19,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * First and foremost, **develop the necessary skills and be sound with the fundamentals**, these are some of the horizons you should be extremely comfortable with - 
   - Business Understanding(this is extremely critical across all seniority levels, but specifically for people with more than 3 years of experience)
   - SQL and Databases(very crucial)
-  - Programming Skills(preferably in Python)
+  - Programming Skills(preferably in Python, if you know Scala, extra brownie points for some specific roles)
   - Mathematics(Probability, Statistics, Linear Algebra and Calculus) - https://medium.com/@rbhatia46/essential-probability-statistics-concepts-before-data-science-bb787b7a5aef 
   - Machine Learning(this includes Deep Learning) and Model building
   - Data Structures and Algorithms(must and mandatory for top product based companies like FAANG)
