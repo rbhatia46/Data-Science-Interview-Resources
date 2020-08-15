@@ -250,6 +250,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Take your Machine Learning Models to Production with these 5 simple steps](https://mlwhiz.com/blog/2019/12/25/prod/) 📘
 * [2 way to deploy your ML models](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1) 📘
 * [How to deploy a Keras model as a web app through Flask](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) 📘
+* [How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582) 📘
 
 ***
 ## Big Data
@@ -258,6 +259,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Hive Interview Questions](https://www.tutorialspoint.com/hive/hive_interview_questions.htm) 📘
 * [Top 20 Apache Spark Interview Questions](https://www.youtube.com/watch?v=Y8LKEDyA5iY) 📹
 * [Spark Interview Questions - The entire playlist](https://www.youtube.com/playlist?list=PLtfmIPhU2DkNjQjL08kR3cd4kUzWqS0vg) 📹
+* [Practical PySpark tips for Data Scientists](https://towardsdatascience.com/practical-spark-tips-for-data-scientists-145d85e9b2d8) 📘
 
 ***
 ## General Interview Questions across the Spectrum (Video)
