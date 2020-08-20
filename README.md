@@ -204,6 +204,7 @@ Case studies are extremely important for interviews, below are some resources to
 * [Large Scale Forecasting for 1000+ products - Nagarro](https://www.youtube.com/watch?v=8jfDBD6xlFM) 📹
 * [Clustering and Classification in E-Commerce](https://lucidworks.com/post/clustering-classification-supervised-unsupervised-learning-ecommerce/) 📘
 * [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/) 📘
+* [Data Science Case Study: Optimizing Product Placement in Retail ](https://towardsdatascience.com/data-science-case-study-optimizing-product-placement-in-retail-part-1-2e8b27e16e8d) 📘
 
 ***
 ## NLP
