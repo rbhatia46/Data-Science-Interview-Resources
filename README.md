@@ -167,6 +167,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [An introduction to t-SNE : DataCamp](https://www.datacamp.com/community/tutorials/introduction-t-sne) 📘
 * [Dimensionally Reducing Squeezing out the good stuff](https://www.youtube.com/watch?v=4QMFNg7tjbk) 📘
 * [Dimensionality Reduction for Dummies : Part 1 - Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79) 📘
+* [In-depth Explanation of DBSCAN Algorithm](https://towardsdatascience.com/explaining-dbscan-clustering-18eaf5c83b31) 📘
 
 ***
 ## Recommender Systems
