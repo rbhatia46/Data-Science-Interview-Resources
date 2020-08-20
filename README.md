@@ -264,6 +264,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Practical PySpark tips for Data Scientists](https://towardsdatascience.com/practical-spark-tips-for-data-scientists-145d85e9b2d8) 📘
 * [3 Ways to parallelize your code using Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473) 📘
 * [Datashader - Revealing the Structure of Genuinely Big Data](https://www.youtube.com/watch?v=6m3CFbKmK_c) 📹
+* [Lightnings Talk : What one should know about Spark-MLlib](https://www.youtube.com/watch?v=DBxcua0Vmvk) 📹
 
 ***
 ## Some amazing stuff on Python and Spark 
