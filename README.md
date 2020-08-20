@@ -263,13 +263,14 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Spark Interview Questions - The entire playlist](https://www.youtube.com/playlist?list=PLtfmIPhU2DkNjQjL08kR3cd4kUzWqS0vg) 📹
 * [Practical PySpark tips for Data Scientists](https://towardsdatascience.com/practical-spark-tips-for-data-scientists-145d85e9b2d8) 📘
 * [3 Ways to parallelize your code using Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473) 📘
-* [Vectorized UDFs: Scalable Analysis with Python and PySpark](https://www.youtube.com/watch?v=Til-StSDvfA) 📹
+* [Datashader - Revealing the Structure of Genuinely Big Data](https://www.youtube.com/watch?v=6m3CFbKmK_c) 📹
 
 ***
 ## Some amazing stuff on Python and Spark 
 You can't afford to miss this if you are interviewing for a Big data role.
 * [Improving Python and Spark performance](https://www.youtube.com/watch?v=qIKImANLFtE) 📹
 * [High Performance Python on Spark](https://www.youtube.com/watch?v=abZ0f5ug18U) 📹
+* [Vectorized UDFs: Scalable Analysis with Python and PySpark](https://www.youtube.com/watch?v=Til-StSDvfA) 📹
 
 ***
 ## General Interview Questions across the Spectrum (Video)
