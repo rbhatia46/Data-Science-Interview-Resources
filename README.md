@@ -266,6 +266,12 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Vectorized UDFs: Scalable Analysis with Python and PySpark](https://www.youtube.com/watch?v=Til-StSDvfA) 📹
 
 ***
+## Some amazing stuff on Python and Spark 
+You can't afford to miss this if you are interviewing for a Big data role.
+* [Improving Python and Spark performance](https://www.youtube.com/watch?v=qIKImANLFtE) 📹
+* [High Performance Python on Spark](https://www.youtube.com/watch?v=abZ0f5ug18U) 📹
+
+***
 ## General Interview Questions across the Spectrum (Video)
 
 * [Common Data Science Interview Questions - Edureka](https://www.youtube.com/watch?v=tTAieUcNHdY)
