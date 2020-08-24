@@ -261,6 +261,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Hive Interview Questions](https://www.tutorialspoint.com/hive/hive_interview_questions.htm) 📘
 * [Top 20 Apache Spark Interview Questions](https://www.youtube.com/watch?v=Y8LKEDyA5iY) 📹
 * [Spark Interview Questions - The entire playlist](https://www.youtube.com/playlist?list=PLtfmIPhU2DkNjQjL08kR3cd4kUzWqS0vg) 📹
+* [Another fabulous Playlist for Spark Interview Questions](https://www.youtube.com/playlist?list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std) 📹
 * [Practical PySpark tips for Data Scientists](https://towardsdatascience.com/practical-spark-tips-for-data-scientists-145d85e9b2d8) 📘
 * [3 Ways to parallelize your code using Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473) 📘
 * [Datashader - Revealing the Structure of Genuinely Big Data](https://www.youtube.com/watch?v=6m3CFbKmK_c) 📹
