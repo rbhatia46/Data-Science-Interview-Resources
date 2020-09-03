@@ -255,7 +255,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582) 📘
 
 ***
-## Big Data
+## Big Data and Spark
 * [55 Apache Spark Interview Questions](https://www.edureka.co/blog/interview-questions/top-apache-spark-interview-questions-2016/) 📘
 * [10 Questions you can expect in a Spark Interview](https://medium.com/analytics-vidhya/10-questions-you-can-expect-in-spark-interview-24b89b807dfb) 📘
 * [Hive Interview Questions](https://www.tutorialspoint.com/hive/hive_interview_questions.htm) 📘
@@ -266,6 +266,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [3 Ways to parallelize your code using Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473) 📘
 * [Datashader - Revealing the Structure of Genuinely Big Data](https://www.youtube.com/watch?v=6m3CFbKmK_c) 📹
 * [Lightnings Talk : What one should know about Spark-MLlib](https://www.youtube.com/watch?v=DBxcua0Vmvk) 📹
+* [Solving “Container Killed by Yarn For Exceeding Memory Limits” Exception in Apache Spark](https://medium.com/analytics-vidhya/solving-container-killed-by-yarn-for-exceeding-memory-limits-exception-in-apache-spark-b3349685df16) 📘
 
 ***
 ## Some amazing stuff on Python and Spark 
