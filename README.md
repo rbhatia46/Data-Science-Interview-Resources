@@ -193,6 +193,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ## Machine Learning Interpretability
 * [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/) 📘
 * [Machine Learning Explanaibility - Crash Course by Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) 📘
+* [SHAP Values explained simply](https://www.youtube.com/watch?v=VB9uV-x0gtg) 📹
 
 ***
 ## Case Studies
