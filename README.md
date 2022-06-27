@@ -55,9 +55,9 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 ***
 
-If you want to quickly revise your math basics, follow this : https://media-exp2.licdn.com/dms/document/C4D1FAQFzFmR919-Erw/feedshare-document-pdf-analyzed/0/1655384106479?e=1656547200&v=beta&t=9bm4OUyWfM1dQR8LWXsLrGDqYz_Yr_e7TJxHXLXe36I
+* If you want to quickly revise your math basics, follow this : https://media-exp2.licdn.com/dms/document/C4D1FAQFzFmR919-Erw/feedshare-document-pdf-analyzed/0/1655384106479?e=1656547200&v=beta&t=9bm4OUyWfM1dQR8LWXsLrGDqYz_Yr_e7TJxHXLXe36I
 
-If you want to quick revise you Stats and ML basics, follow this : https://media-exp2.licdn.com/dms/document/C4D1FAQFLvzVgVxYAAA/feedshare-document-pdf-analyzed/0/1656265480370?e=1657152000&v=beta&t=RD90ZEx3x2VLUGSthO-1uYKadzwTRixKRg3s8j2nvOc
+* If you want to quick revise you Stats and ML basics, follow this : https://media-exp2.licdn.com/dms/document/C4D1FAQFLvzVgVxYAAA/feedshare-document-pdf-analyzed/0/1656265480370?e=1657152000&v=beta&t=RD90ZEx3x2VLUGSthO-1uYKadzwTRixKRg3s8j2nvOc
 
 ## Probability and Statistics
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
