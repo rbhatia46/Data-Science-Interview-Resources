@@ -10,7 +10,9 @@ With an increase in demand for so many Data Scientists, it's really hard to succ
 
 Every Resource I list here is personally verified by me and most of them I have used personally, which have helped me a lot.
 
-**Word of Caution:** Data Science/Machine Learning has a very big domain and there are a lot of things to learn. This by no means is an exhaustive list and is just for helping you out if you are struggling to find some good resources to start your preparation. However, I try to cover and update this frequently and my goal is to cover and unify everything into one resource that you can use to rock those interviews! Please leave a star if you appreciate the effort.
+**Word of Caution:** Data Science/Machine Learning has a very big domain and there are a lot of things to learn. This by no means is an exhaustive list and is just for helping you out if you are struggling to find some good resources to start your preparation. However, I try to cover and update this frequently and my goal is to cover and unify everything into one resource that you can use to rock those interviews! 
+
+**Please leave a star if you appreciate the effort.**
 
 **Note:** For contribution, refer [Contribution.md](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/Contribution.md)
 
