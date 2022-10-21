@@ -88,6 +88,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [10 frequently asked SQL Queries in Interviews](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) 📘
 * [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
 * [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query) 📘
+* [Learn SQL in Detail](https://www.scaler.com/topics/sql/) 📘
 * [Ten SQL Concepts You Should Know for Data Science Interviews](https://towardsdatascience.com/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185) 📘
 
 ***
