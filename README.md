@@ -221,6 +221,7 @@ Case studies are extremely important for interviews, below are some resources to
 * [11 Most Commonly Asked NLP Interview Questions For Beginners](https://analyticsindiamag.com/11-most-commonly-asked-nlp-interview-questions-for-beginners/)
 * [How to solve 90% of NLP Problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [Questions asked for NLP Roles at Companies](https://medium.com/modern-nlp/nlp-interview-questions-f062040f32f7)
+* [Vector-based Methods for Similarity Search (TF-IDF, BM25, SBERT)](https://www.youtube.com/watch?v=ziiF1eFM3_4)
 
 ***
 ## Data Science Interviews at FAANG and Similar Companies
