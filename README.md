@@ -195,6 +195,12 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [25 Deep Learning Interview Qurstions to test your knowledge](https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61) 📘
 * [10 Deep Learning Best Practices to Keep in Mind in 2020](https://nanonets.com/blog/10-best-practices-deep-learning/) 📘
 
+
+***
+## GenAI and LLMs
+
+* [LoRA Explained](https://www.youtube.com/watch?v=t509sv5MT0w) 📹
+
 ***
 ## Machine Learning Interpretability
 * [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/) 📘
