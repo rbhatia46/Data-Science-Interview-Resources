@@ -114,6 +114,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## Classic Machine Learning Algorithms
 
+* [All Learning Algorithms Explained in 14 Minutes](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
+
 ### 1. Logistic Regression
 
 * [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad) 📘 
@@ -122,6 +124,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw) 📹
 * [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
 * [Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=VCJdg7YBbAQ) 📹
+* [Lasso, Ridge and Logistic Regression all in one video](https://www.youtube.com/live/vaQxdBEcBzU?si=3judBH9xcRefRwGP) 📹
 
 
 ### 2. Linear Regression
@@ -201,6 +204,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 * [LoRA Explained](https://www.youtube.com/watch?v=t509sv5MT0w) 📹
 * [RAG 101](https://developer.nvidia.com/blog/rag-101-retrieval-augmented-generation-questions-answered/)📘
+* [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)📹
 
 ***
 ## Machine Learning Interpretability
