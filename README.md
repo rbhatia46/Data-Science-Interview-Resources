@@ -207,6 +207,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)📹
 * [BERT Theory in-depth explanation in one video](https://www.youtube.com/watch?v=90mGPxR2GgY)📹
 * [Transformers Theory in-depth explanation in one video](https://www.youtube.com/watch?v=bCz4OMemCcA)📹
+* [The math behind Attention: Keys, Queries, and Values matrices](https://www.youtube.com/watch?v=UPtG_38Oq8o)📹
+
 
 ***
 ## Machine Learning Interpretability
@@ -237,6 +239,7 @@ Case studies are extremely important for interviews, below are some resources to
 * [Vector-based Methods for Similarity Search (TF-IDF, BM25, SBERT)](https://www.youtube.com/watch?v=ziiF1eFM3_4) 📹
 * [Understanding BERT in detail - one of the best playlist's to understand the fundamentals and inner workings of BERT, huge shoutout to Chris McCormick
 ](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6) 📹
+* [Word Embeddings, CBoW and Skipgram](https://www.youtube.com/watch?v=Q95SIG4g7SA) 📹
 
 
 ***
