@@ -205,6 +205,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [LoRA Explained](https://www.youtube.com/watch?v=t509sv5MT0w) 📹
 * [RAG 101](https://developer.nvidia.com/blog/rag-101-retrieval-augmented-generation-questions-answered/)📘
 * [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)📹
+* [BERT Theory in-depth explanation in one video](https://www.youtube.com/watch?v=90mGPxR2GgY)📹
+* [Transformers Theory in-depth explanation in one video](https://www.youtube.com/watch?v=bCz4OMemCcA)📹
 
 ***
 ## Machine Learning Interpretability
