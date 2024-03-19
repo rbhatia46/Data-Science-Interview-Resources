@@ -200,6 +200,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ## GenAI and LLMs
 
 * [LoRA Explained](https://www.youtube.com/watch?v=t509sv5MT0w) 📹
+* [RAG 101](https://developer.nvidia.com/blog/rag-101-retrieval-augmented-generation-questions-answered/)📘
 
 ***
 ## Machine Learning Interpretability
