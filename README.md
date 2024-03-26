@@ -211,6 +211,14 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 
 ***
+## Machine Learning System Design
+
+* [How To Answer Any Machine Learning System Design Interview Question](https://towardsdatascience.com/how-to-answer-any-machine-learning-system-design-interview-question-a98656bb7ff0) 📘
+
+
+
+
+***
 ## Machine Learning Interpretability
 * [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/) 📘
 * [Machine Learning Explanaibility - Crash Course by Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) 📘
