@@ -61,7 +61,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 * If you want to quick revise you Stats and ML basics, follow this : https://media-exp2.licdn.com/dms/document/C4D1FAQFLvzVgVxYAAA/feedshare-document-pdf-analyzed/0/1656265480370?e=1657152000&v=beta&t=RD90ZEx3x2VLUGSthO-1uYKadzwTRixKRg3s8j2nvOc
 
-## Probability and Statistics
+## Probability, Statistics and Linear Algebra
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
 * [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
@@ -73,6 +73,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
 * [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
+* [Crash Course in Applied Linear Algebra](https://youtu.be/wkxgZirbCr4?si=6jk888FeJQYDzIgy) 📹
 
 ***
 
