@@ -270,6 +270,7 @@ Going through these will definately add extra brownie points, so don't miss thes
 * [Running your ML Predictions 50 times faster - Hummingbird](https://mlwhiz.com/blog/2020/06/06/hummingbird_faster_ml_preds/) 📘
 * [3 Mistakes you should not make in a Data Science Interview](https://mlwhiz.com/blog/2019/12/24/mistakes/) 📘
 * [How to find Feature importances for BlackBox Models?](https://mlwhiz.com/blog/2019/12/04/blackbox/) 📘
+* [Acing the Data Science Interview ](https://www.manning.com/books/acing-the-data-science-interview) 📘
 
 ***
 
