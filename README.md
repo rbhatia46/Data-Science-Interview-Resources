@@ -304,6 +304,7 @@ Although this might be optional, but do not miss this if the Job Description exp
 * [Datashader - Revealing the Structure of Genuinely Big Data](https://www.youtube.com/watch?v=6m3CFbKmK_c) 📹
 * [Lightnings Talk : What one should know about Spark-MLlib](https://www.youtube.com/watch?v=DBxcua0Vmvk) 📹
 * [Solving “Container Killed by Yarn For Exceeding Memory Limits” Exception in Apache Spark](https://medium.com/analytics-vidhya/solving-container-killed-by-yarn-for-exceeding-memory-limits-exception-in-apache-spark-b3349685df16) 📘
+* [30+ Spark Interview Questions](https://www.interviewbit.com/spark-interview-questions/)📘
 
 ***
 ## Some amazing stuff on Python and Spark 
@@ -365,7 +366,7 @@ You can't afford to miss this if you are interviewing for a Big data role.
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
 * [Regularization in Machine Learning - Explained](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
-
+* [Top 40 Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
 ***
 ## Interesting Reads
