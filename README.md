@@ -366,6 +366,7 @@ You can't afford to miss this if you are interviewing for a Big data role.
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
 * [Regularization in Machine Learning - Explained](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
+* [Top 10 Data Science Myths Busted](https://medium.com/@kwal.neetika/top-10-data-science-myths-busted-792f9cf84a08)
 
 
 ***
