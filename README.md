@@ -1,8 +1,10 @@
 [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Data-Science-Interview-Resources})
 ![Star this repository](https://img.shields.io/github/stars/rbhatia46/Data-Science-Interview-Resources?style=social)
 
-
 # Data-Science-Interview-Resources
+
+**Update : Based on the experience after interviewing heavily in the last few years, I recently decided to start a channel dedicated to help people crack Data Science Interviews, feel free to check it out here : <br/>[<img src="https://i.pinimg.com/736x/81/70/c0/8170c0b0cddec975b7c2553c20c1ab7e.jpg" width=70 height=70>](https://www.youtube.com/channel/UC2vHbm_9kzjrRamX8ArGdkA)**
+
 
 First of all, thanks for visiting this repo, congratulations on making a great career choice, I aim to help you land an amazing Data Science job that you have been dreaming for, by sharing my experience, interviewing heavily at both large product-based companies and fast-growing startups, hope you find it useful.
 
@@ -13,9 +15,6 @@ Every Resource I list here is personally verified by me and most of them I have 
 **Word of Caution:** Data Science/Machine Learning has a very big domain and there are a lot of things to learn. This by no means is an exhaustive list and is just for helping you out if you are struggling to find some good resources to start your preparation. However, I try to cover and update this frequently and my goal is to cover and unify everything into one resource that you can use to rock those interviews! 
 
 **Please leave a star if you appreciate the effort.**
-
-**Based on the experience after interviewing heavily in the last few years, I recently decided to start a channel dedicated to help people crack Data Science Interviews, feel free to check it out here : <br/>[<img src="https://i.pinimg.com/736x/81/70/c0/8170c0b0cddec975b7c2553c20c1ab7e.jpg" width=70 height=70>](https://www.youtube.com/channel/UC2vHbm_9kzjrRamX8ArGdkA)**
-
 
 **Note:** For contribution, refer [Contribution.md](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/Contribution.md)
 
