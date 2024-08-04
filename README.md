@@ -14,6 +14,9 @@ Every Resource I list here is personally verified by me and most of them I have 
 
 **Please leave a star if you appreciate the effort.**
 
+**Based on the experience after interviewing heavily in the last few years, I recently decided to start a channel dedicated to help people crack Data Science Interviews, feel free to check it out here : <br/>[<img src="https://i.pinimg.com/736x/81/70/c0/8170c0b0cddec975b7c2553c20c1ab7e.jpg" width=70 height=70>](https://www.youtube.com/channel/UC2vHbm_9kzjrRamX8ArGdkA)**
+
+
 **Note:** For contribution, refer [Contribution.md](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/Contribution.md)
 
 ## How to get an interview ?
