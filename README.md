@@ -252,6 +252,7 @@ Case studies are extremely important for interviews, below are some resources to
 * [Understanding BERT in detail - one of the best playlist's to understand the fundamentals and inner workings of BERT, huge shoutout to Chris McCormick
 ](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6) 📹
 * [Word Embeddings, CBoW and Skipgram](https://www.youtube.com/watch?v=Q95SIG4g7SA) 📹
+* [CBoW v/s Skipgram : Data Science Interview Question](https://www.youtube.com/watch?v=WssUXhPoELE) 📹
 
 
 ***
