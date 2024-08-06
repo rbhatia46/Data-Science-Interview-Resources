@@ -205,13 +205,15 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## GenAI and LLMs
 
-* [LoRA Explained](https://www.youtube.com/watch?v=t509sv5MT0w) 📹
+* [LoRA Explained](https://youtu.be/hcAx89iwkMU) 📹
+* [RAG v/s Fine-tuning v/s Prompt Engineering](https://youtu.be/-ZwhMnNwvxA)📹
 * [Cross-encoders vs Bi-encoders : A deep-dive into text encoding methods](https://medium.com/@rbhatia46/cross-encoders-vs-bi-encoders-a-deep-dive-into-text-encoding-methods-d9aa890d6ca4)📘
 * [RAG 101](https://developer.nvidia.com/blog/rag-101-retrieval-augmented-generation-questions-answered/)
 * [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)📹
 * [BERT Theory in-depth explanation in one video](https://www.youtube.com/watch?v=90mGPxR2GgY)📹
 * [Transformers Theory in-depth explanation in one video](https://www.youtube.com/watch?v=bCz4OMemCcA)📹
 * [The math behind Attention: Keys, Queries, and Values matrices](https://www.youtube.com/watch?v=UPtG_38Oq8o)📹
+  
 
 
 ***
