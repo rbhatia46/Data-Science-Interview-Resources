@@ -56,6 +56,7 @@ Every Resource I list here is personally verified by me and most of them I have 
   * [How to write a killer Software Engineering Resume](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/) 📘
   * [Get your Data Science Resume past the ATS](https://towardsdatascience.com/up-level-your-data-science-resume-getting-past-ats-64322f0cbb73) 📘
   * [How to write a developer résumé that hiring managers will actually read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/) 📘
+  * [Complete Data Scientist Resume Guide](https://www.tryexponent.com/blog/data-science-resume) 📘
 
 ***
 
@@ -76,6 +77,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 * [Crash Course in Applied Linear Algebra](https://youtu.be/wkxgZirbCr4?si=6jk888FeJQYDzIgy) 📹
+* [Top 25 Statistics Data Science Interview Questions](https://www.tryexponent.com/blog/top-statistics-data-science-interview-questions) 📘
 
 ***
 
@@ -135,6 +137,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
 * [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
+* [Linear Regression Algorithm Explained](https://www.tryexponent.com/courses/data-science/ml-concepts-questions-data-scientists/linear-regression)
+* [Linear Regression Mock Interview](https://www.youtube.com/watch?v=ss3HRy1eiLY) 📹
 * [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30) 📹
 * [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs) 📹
 
@@ -155,6 +159,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/) 📘
 * [Pros and Cons of KNN](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/) 📘
 * [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE) 📹
+* [KNN Algorithm Mock Interview](https://www.youtube.com/watch?v=krDQ54H-JJo) 📹
 
 ### 5. Support Vector Machines
 
@@ -220,7 +225,8 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ## Machine Learning System Design
 
 * [How To Answer Any Machine Learning System Design Interview Question](https://towardsdatascience.com/how-to-answer-any-machine-learning-system-design-interview-question-a98656bb7ff0) 📘
-
+* [Introduction to ML System Design Interviews](https://www.tryexponent.com/courses/ml-engineer/ml-system-design/mlsd-intro) 📘
+* [ML System Design Mock Interview: Spotify Recommendations](https://www.youtube.com/watch?v=vyZMYlGBSBM) 📹
 
 
 
