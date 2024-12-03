@@ -371,6 +371,8 @@ You can't afford to miss this if you are interviewing for a Big data role.
 * [Must Know mathematical measures for Every Data Scientist](https://medium.com/fintechexplained/must-know-mathematical-measures-for-data-scientist-15bfc4f7f39c)
 * [Where did the least square come from](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
 * [Regularization in Machine Learning - Explained](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
+* [Data Analytics Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
+* [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 
 
 ***
