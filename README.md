@@ -76,6 +76,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 * [Crash Course in Applied Linear Algebra](https://youtu.be/wkxgZirbCr4?si=6jk888FeJQYDzIgy) 📹
+* [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) 📘
 
 ***
 
