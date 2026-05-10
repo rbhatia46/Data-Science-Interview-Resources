@@ -262,6 +262,9 @@ Case studies are extremely important for interviews, below are some resources to
 * [Amazon’s Data Scientist Interview Practice Problems](https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6) 📘
 * [Microsoft Data Science Interview Questions and Answers](https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b) 📘
 * [Problem Solving Questions for Data Science interview at Google](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f) 📘
+* [Google Data Scientist Interview Guide](https://dataford.io/interview-guides/google) 📘
+* [Meta Data Scientist Interview Guide](https://dataford.io/interview-guides/meta) 📘
+* [Amazon Data Scientist Interview Guide](https://dataford.io/interview-guides/amazon) 📘
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
