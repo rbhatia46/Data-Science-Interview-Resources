@@ -204,6 +204,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 ***
 ## GenAI and LLMs
+* [Frontier AI Technical Interview Question Bank](https://frontierrehearsal.com/question-bank) - Original practice questions covering reinforcement learning, LLM inference, ML systems, research engineering, and coding interviews. 📘
 
 * [LoRA Explained](https://youtu.be/hcAx89iwkMU) 📹
 * [RAG v/s Fine-tuning v/s Prompt Engineering](https://youtu.be/-ZwhMnNwvxA)📹
