@@ -265,7 +265,7 @@ Case studies are extremely important for interviews, below are some resources to
 
 ***
 ## Becoming a Rockstar Data Scientist(read if you have extra time)
-Going through these will definately add extra brownie points, so don't miss these if you got time.
+Going through these will definitely add extra brownie points, so don't miss these if you got time.
 
 * [Top 13 Skills To Become a Rockstar Data Scientist](https://towardsdatascience.com/top-13-skills-to-become-a-rockstar-data-scientist-faf2f97e655d) 📘 
 * [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52) 📘
